@@ -30,20 +30,9 @@ Navigate to the appropriate directory and execute Python scripts using:
 python script_name.py
 ```
 
-### Running Tests
-To execute automated tests:
-```sh
-python -m unittest test_script.py
-```
 
 ## Contribution Guidelines
 - 🏗️ Follow [PEP8](https://peps.python.org/pep-0008/) coding standards.
 - 📝 Add comments and documentation.
 - 📌 Use meaningful commit messages.
 - 🔄 Submit pull requests for review.
-
-## License
-This repository is for **educational purposes**. If you use the code, please attribute appropriately.
-
-## Contact
-For any issues or questions, please reach out via the **course forum** or contact the **instructor**.
