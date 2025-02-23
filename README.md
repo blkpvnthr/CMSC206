@@ -1,5 +1,7 @@
 # CMSC206 - Python Programming Class Repository
 
+![CMSC206 Logo](images/Python_Logo.png)
+
 ## Overview
 This repository contains assignments, projects, and other materials related to the **CMSC206 Python Programming** course. The files are structured to help students and instructors manage coursework, including scripts, datasets, and supporting documentation.
 
